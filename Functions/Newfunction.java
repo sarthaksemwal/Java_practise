@@ -4,10 +4,13 @@ class Function{
      * here i have made a simple function that sings a song
      *also remember a function should return a vlaue not print it like below example 
     */
+    //main function 
     public static void main(String[] args) {
+        //calling the function 
         SingTumere();
         
     }
+    //defining the function 
     public static void SingTumere(){
         System.out.println("Ayese kya chale hawa ");
         System.out.println("Ki le gyi mere sason ko tujse dooor");
