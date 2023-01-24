@@ -1,6 +1,6 @@
 public class AreaCalculator {
     public static void main(String[] args) {
-        System.out.println("Thank you for using the area calculator");
+        System.out.println("Thank you for using the area calculator :)");
         System.out.println("This calculator lets you get the area of: ");
         System.out.println("1 - Square\n2 - Rectangle\n3 - Triangle\n4 - Circle\n");
         
