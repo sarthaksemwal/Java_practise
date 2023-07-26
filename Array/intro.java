@@ -29,7 +29,7 @@ class intro {
 
 
 
-							//creating a string array 
+						//creating a string array 
 							String[] food=new String[5];
 
 						//assinging the values to array 
