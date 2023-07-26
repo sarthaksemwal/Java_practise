@@ -26,5 +26,21 @@ class intro {
 		for (int i = 0; i < arr.length; i++)
 			System.out.println("Element at index " + i
 							+ " : " + arr[i]);
+
+
+
+							//creating a string array 
+							String[] food=new String[5];
+
+						//assinging the values to array 
+							food[0]= "Pizza";
+							food[1]= "Burger";
+							food[2]= "Pav Bhaji";
+						
+                           //printing the string array 
+							for (int j=0; j<food.length; j++){
+								System.out.println(food[j]);
+							}
+						
 	}
 }
