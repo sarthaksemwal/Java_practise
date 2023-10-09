@@ -10,6 +10,7 @@ public class EvenOdd {
         int SumOdd=0;
         while(count<=n){
             if(count%2==0){
+                
             SumEven+=count;
 
             }
