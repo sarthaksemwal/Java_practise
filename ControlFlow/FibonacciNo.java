@@ -12,7 +12,7 @@ public class FibonacciNo {
 
 
         }
-        System.out.println(next);
+        System.out.println(a);
         scan.close();
     }
 }
